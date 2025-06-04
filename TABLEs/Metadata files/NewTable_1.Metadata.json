@@ -1,0 +1,42 @@
+{
+  "Column": [
+    {
+      "CHARACTER_MAXIMUM_LENGTH": 100,
+      "CHARACTER_OCTET_LENGTH": 400,
+      "CHARACTER_SET_NAME": "utf8mb4",
+      "COLLATION_NAME": "utf8mb4_0900_ai_ci",
+      "COLUMN_COMMENT": "",
+      "COLUMN_DEFAULT": null,
+      "COLUMN_KEY": "",
+      "COLUMN_NAME": "Column1",
+      "COLUMN_TYPE": "varchar(100)",
+      "DATA_TYPE": "varchar",
+      "DATETIME_PRECISION": null,
+      "EXTRA": "",
+      "GENERATION_EXPRESSION": "",
+      "IS_NULLABLE": "YES",
+      "NUMERIC_PRECISION": null,
+      "NUMERIC_SCALE": null,
+      "obj": "NewTable_1",
+      "ORDINAL_POSITION": 1,
+      "PRIVILEGES": "select,insert,update,references",
+      "SRS_ID": null,
+      "TABLE_CATALOG": "def",
+      "type": "TABLE"
+    }
+  ],
+  "Constraints": [],
+  "General": [
+    {
+      "AUTO_INCREMENT": null,
+      "AVG_ROW_LENGTH": 0,
+      "CREATE_OPTIONS": "",
+      "MAX_DATA_LENGTH": 0,
+      "obj": "NewTable_1",
+      "TABLE_COLLATION": "utf8mb4_0900_ai_ci",
+      "TABLE_COMMENT": "",
+      "type": "TABLE"
+    }
+  ],
+  "Indexes": []
+}
